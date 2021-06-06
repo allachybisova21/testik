@@ -8,6 +8,7 @@ public class TestikApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestikApplication.class, args);
+        //comit
     }
 
 }
